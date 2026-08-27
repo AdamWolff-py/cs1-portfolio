@@ -16,3 +16,9 @@ This is my first python program. It prints a message to the screen.
 - How to upload a project to GitHub
 
 ## Future Improvements
+- As the user for their names
+- Print a personalized greeting
+- Add comments
+
+## Author
+Created by Adam Wolff as part of my Computer Science 1 course-work
