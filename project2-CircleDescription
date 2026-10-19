@@ -1,0 +1,23 @@
+#CircleDescription.py
+"""This program tells the user the name, major, and hometown of the creator, then it lets the user know that that the program will find the circumference and area of the circle with the radius given by the user."""
+print("My name is Adam Wolff \nI'm majoring in Computer Enginnering.")
+
+hometown = "I'm from Altamont Illinois."
+
+print(hometown)
+
+print("\nI am going to find the circumference and area of a circle for you.")
+
+print()
+
+radius = (float(input("Enter your circle radius:")))
+
+print()
+
+PI = 3.1415926536
+
+circumference = 2 * PI * radius
+
+area = PI * radius ** 2
+
+print("The circumference is",circumference,"\nThe area is",area)
